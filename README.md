@@ -1,6 +1,6 @@
 # minix_shell
 
-Thisis a simple command-line interface program developed in C for Minix systems. It allows users to execute commands, manage processes, handle input/output redirection, support piping, and enable background execution.
+This is a simple command-line interface program developed in C for Minix systems. It allows users to execute commands, manage processes, handle input/output redirection, support piping, and enable background execution.
 
 ## Compilation Instructions
 
